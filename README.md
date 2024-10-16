@@ -15,4 +15,4 @@ This project showcases my ability to integrate various technologies and create a
 
 
 
-For a detailed overview of the project, you can view my presentation Video here.
+For a detailed overview of the project, you can view my presentation Video here.https://drive.google.com/file/d/1z2r1cmfD-5Ff-1hlTx8YTurotf21YTgp/view?usp=drive_link
