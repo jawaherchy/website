@@ -1,3 +1,3 @@
 # portfolio-project
 
-Presentation video : https://drive.google.com/file/d/1w1OIW6rj5TnJGVh7qhfYpeyEXRx__-Oh/view?usp=drive_link
+#This is a business website I developed using Django and Python, along with HTML, CSS, and JavaScript.
